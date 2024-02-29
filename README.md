@@ -127,4 +127,4 @@ Observe que ao escolher a `opção 6 - radiciação -`, **o programa solicitou a
 
 ## ✅ Resolução do desafio
 
-* [Resolução]() - ⚠️ Será disponibilizada em breve.
+* [Resolução](https://github.com/giovanesouza/desafio-calculadora-js/tree/resolucao)

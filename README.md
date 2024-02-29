@@ -121,10 +121,3 @@ No exemplo abaixo foi utilizada a `opção 1: somar` para exemplificar. Observe 
 Observe que ao escolher a `opção 6 - radiciação -`, **o programa solicitou apenas 1 número para realizar o cálculo**.
 
 ![Raiz quadrada](./images/operacao6.jpg "Raiz quadrada")
-
-
-
-
-## ✅ Resolução do desafio
-
-* [Resolução]() - ⚠️ Será disponibilizada em breve.
